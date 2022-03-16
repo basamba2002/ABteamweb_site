@@ -1,0 +1,138 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.SHeader {
+    height: 130px;
+    width: auto;
+    background-color: #a62c2b;
+    padding: 0px;
+    margin: 0px;
+}
+#SHeader_plus{
+    height: 5px;
+    width: auto;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+}
+#SHeader_plus:hover{
+    height: 40px;
+    background-color: #4682b4;
+}
+.SBody{
+    height: 650px;
+    width: inherit;
+}
+.Ville{
+    display: inline-block;
+    background-color: #F5F5F5;
+    height: 550px;
+    width: 222px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 4px;
+
+}
+
+.Text_div{
+    padding: 0px;
+    margin: 0px;
+    height: 320px;
+    background-color: #F5F5F5;
+}
+.Text_div:hover{
+    background-color:   black;
+
+}
+
+.Titre_ville{
+    color: black;
+    font-family: Impact;
+    font-size: 40px;
+
+    
+}
+.Text_ville{
+    color:#F5F5F5;
+    font-family: Impact;
+    font-size: 40px;
+    
+}
+.Visit_click{
+    box-shadow: 0px;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+    width: inherit;
+    background-color: #a62c2b;
+    cursor: pointer;
+
+}
+.Visit_click:visited{
+    text-decoration: none;
+}
+.Visit_click:link{
+    text-decoration: none;
+}
+.Visit_click:hover{
+    background-color: #4682b4;
+}
+
+
+.SHeader h1 {
+    font-style: impact;
+    font-size: 50px;
+    color: white;
+    margin: 0px;
+    padding-top: 50px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img_div{
+
+    width: 225px;
+    height: 150px;
+    padding: 0px;
+    margin: 0px;
+}
+
